@@ -17,9 +17,10 @@
 ## 📦 Endpoint API & Contoh `curl`
 
 ### 1. 🔍 Ambil Stok Berdasarkan Gudang
+```markdown
+**GET** `/warehouses/{warehouse_id}/stocks`
 ```bash
 curl --location --request GET 'http://localhost:8080/warehouses/2/stocks'
-
 ** Response :
 ```bash
 {
