@@ -19,3 +19,21 @@
 ### 1. 🔍 Ambil Stok Berdasarkan Gudang
 ```bash
 curl --location --request GET 'http://localhost:8080/warehouses/2/stocks'
+
+** Response :
+```bash
+{
+    "app": "go-shop-warehouse",
+    "version": "1.0.0",
+    "date": "2025-05-22T05:51:13Z",
+    "data": [
+        {
+            "id": 2,
+            "warehouse_id": 2,
+            "product_id": 1,
+            "available_qty": 100,
+            "reserved_qty": 0
+        }
+    ],
+    "message": "Success"
+}
