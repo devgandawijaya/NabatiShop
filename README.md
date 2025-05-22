@@ -1,6 +1,6 @@
 # 🏪 Go Shop Warehouse API
 
-**Go Shop Warehouse** adalah RESTful API berbasis Golang yang menangani manajemen stok gudang, produk, toko, dan proses transfer stok antar gudang. Proyek ini cocok untuk sistem inventaris toko yang membutuhkan pengelolaan stok lintas gudang secara efisien dan otomatis.
+**Go Shop Warehouse** adalah Microservice RESTful API berbasis Golang yang menangani manajemen stok gudang, produk, toko, dan proses transfer stok antar gudang. Proyek ini cocok untuk sistem inventaris toko yang membutuhkan pengelolaan stok lintas gudang secara efisien dan otomatis.
 
 ---
 
