@@ -17,20 +17,6 @@
 
 ## 🐳 Jalankan dengan Docker
 
----
-
-## 🚀 Fitur Utama
-
-- ✅ CRUD Toko (Shop)
-- 🏬 Manajemen Gudang per Toko
-- 📦 Manajemen Stok Produk di Gudang
-- 🔄 Transfer Stok Antar Gudang
-- 🔍 Pencarian stok berdasarkan gudang dan produk
-- 🐳 Dukungan penggunaan dengan Docker
----
-
-## 🐳 Jalankan dengan Docker
-
 
 ### Build Docker image
 
