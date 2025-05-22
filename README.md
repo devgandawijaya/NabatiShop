@@ -17,10 +17,6 @@
 
 ## 🐳 Jalankan dengan Docker
 
-# 🏪 Go Shop & Warehouse
-
-**Go Shop Warehouse** adalah Microservice RESTful API berbasis Golang yang menangani manajemen stok gudang, produk, toko, dan proses transfer stok antar gudang. Cocok untuk sistem inventaris retail dengan banyak cabang dan gudang, mendukung pengelolaan stok yang efisien dan transparan.
-
 ---
 
 ## 🚀 Fitur Utama
